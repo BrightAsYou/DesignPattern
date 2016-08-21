@@ -1,6 +1,6 @@
 package prs.rfh.dsnp.singleton;
 /**
- * ¶öºº
+ * é¥¿æ±‰
  * @author Talent
  *
  */
@@ -12,7 +12,7 @@ public class Singletonlazyer {
 		System.out.println("init....");
 	}
 	
-	public static synchronized Singletonlazyer getInstance(){
+	public static Singletonlazyer getInstance(){
 		
 		return instance;
 		

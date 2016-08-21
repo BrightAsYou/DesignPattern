@@ -2,7 +2,7 @@ package prs.rfh.dsnp.singleton;
 
 public class SingletonTester {
 	public static void main(String[] args) {
-		//¶öºº
+		//æ‡’æ±‰
 //		Singleton sin = Singleton.getInstance();
 //		Singleton sin2 = Singleton.getInstance();
 //		Singleton sin3 = Singleton.getInstance();
@@ -10,7 +10,7 @@ public class SingletonTester {
 //		System.out.println(sin3==sin2);
 //		System.out.println(sin==sin3);
 		
-		//ÀÁºº
+		//é¥¿æ±‰
 		Singletonlazyer sin = Singletonlazyer.getInstance();
 		Singletonlazyer sin2 = Singletonlazyer.getInstance();
 		Singletonlazyer sin3 = Singletonlazyer.getInstance();

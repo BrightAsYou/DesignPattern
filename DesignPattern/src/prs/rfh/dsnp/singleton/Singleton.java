@@ -1,6 +1,6 @@
 package prs.rfh.dsnp.singleton;
 /**
- * ¶öºº
+ * æ‡’æ±‰
  * @author Talent
  *
  */
