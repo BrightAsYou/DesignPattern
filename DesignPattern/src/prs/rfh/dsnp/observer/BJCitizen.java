@@ -7,10 +7,10 @@ public class BJCitizen extends Citizen{
 		setHelp(help);
 		for(Policeman po:police){
 			if("normal".equals(help)){
-				System.out.println("Hey , i'am Peaking man ， noting here !");
+				System.out.println("Hey , i'am Peaking man , noting here !");
 				po.action(this);
 			}else{
-				System.out.println("Hey , i'am Peaking man ， help me before others!");
+				System.out.println("Hey , i'am Peaking man , help me before others!");
 				po.action(this);
 			}
 		}
